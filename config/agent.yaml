@@ -1,0 +1,19 @@
+# Agent Manifest - AgentRegistry static entry point.
+# Root-level keys only; `class` is a single dotted import path.
+# Runtime-tunable parameters live in config/config.yaml, not here.
+
+id: HCR-C2-079
+name: Healthcare Facility Sterile-Supply Recall Lot Match Escalation Agent
+namespace: hcr
+version: 0.1.0
+enabled: true
+description: Healthcare Facility Sterile-Supply Recall Lot Match Escalation Agent
+class: src.graph.graph.HcrC2079RecallLotMatchEscalationAgent
+category: Cat 2
+industry: HCR
+base_type: ToolCallingAgent
+generation_mode: deterministic
+required_trust_level: VERIFIED_EXTERNAL
+requires:
+  secrets: []
+  extras: []

@@ -1,0 +1,18 @@
+{
+  "gitlab_iid": null,
+  "note": "mapping created at init; see individual entries below for each GitLab issue",
+  "entries": [
+    {"gitlab_iid": 1, "template": "HCR-C2-079", "draft": "DRAFT-2277", "taiga_ref": 96991, "title": "[impl] Design docs/02_design.md", "synced_at": "2026-07-18T11:55:00+09:00"},
+    {"gitlab_iid": 2, "template": "HCR-C2-079", "draft": "DRAFT-2277", "taiga_ref": 96992, "title": "[impl] State schema src/schemas/state.py", "synced_at": "2026-07-18T11:55:00+09:00"},
+    {"gitlab_iid": 3, "template": "HCR-C2-079", "draft": "DRAFT-2277", "taiga_ref": 96993, "title": "[impl] Node: InputValidate", "synced_at": "2026-07-18T11:55:00+09:00"},
+    {"gitlab_iid": 4, "template": "HCR-C2-079", "draft": "DRAFT-2277", "taiga_ref": 96994, "title": "[impl] Node: RecallParse", "synced_at": "2026-07-18T11:55:00+09:00"},
+    {"gitlab_iid": 5, "template": "HCR-C2-079", "draft": "DRAFT-2277", "taiga_ref": 96995, "title": "[impl] Node: LotMatch", "synced_at": "2026-07-18T11:55:00+09:00"},
+    {"gitlab_iid": 6, "template": "HCR-C2-079", "draft": "DRAFT-2277", "taiga_ref": 96996, "title": "[impl] Node: EscalationRender", "synced_at": "2026-07-18T11:55:00+09:00"},
+    {"gitlab_iid": 7, "template": "HCR-C2-079", "draft": "DRAFT-2277", "taiga_ref": 96997, "title": "[impl] Node: OutputValidate", "synced_at": "2026-07-18T11:55:00+09:00"},
+    {"gitlab_iid": 8, "template": "HCR-C2-079", "draft": "DRAFT-2277", "taiga_ref": 96998, "title": "[impl] Graph composition src/graph/graph.py", "synced_at": "2026-07-18T11:55:00+09:00"},
+    {"gitlab_iid": 9, "template": "HCR-C2-079", "draft": "DRAFT-2277", "taiga_ref": 96999, "title": "[impl] Test spec docs/03_test_spec.md", "synced_at": "2026-07-18T11:55:00+09:00"},
+    {"gitlab_iid": 10, "template": "HCR-C2-079", "draft": "DRAFT-2277", "taiga_ref": 97000, "title": "[impl] Tests (unit)", "synced_at": "2026-07-18T11:55:00+09:00"},
+    {"gitlab_iid": 11, "template": "HCR-C2-079", "draft": "DRAFT-2277", "taiga_ref": 97001, "title": "[impl] Tests (integration + proof_of_boundary)", "synced_at": "2026-07-18T11:55:00+09:00"},
+    {"gitlab_iid": 12, "template": "HCR-C2-079", "draft": "DRAFT-2277", "taiga_ref": 97002, "title": "[impl] Operation guide docs/07_operation_guide.md", "synced_at": "2026-07-18T11:55:00+09:00"}
+  ]
+}
